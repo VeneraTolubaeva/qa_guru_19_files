@@ -27,7 +27,7 @@ public class FileDownloadTest {
     void uploadTest() throws Exception {
         Selenide.open("https://tus.io/demo.html");
         $("input[type='file']").uploadFromClasspath("free-png.ru-383.png");
-        $("#js-upload-container").shouldHave(Condition.text("The upload is complete!"));
+        $("p[class='_heading_1as67_21']").shouldHave(Condition.text("The upload is complete!"));
     }
 
 }
