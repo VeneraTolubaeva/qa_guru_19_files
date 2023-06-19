@@ -1,0 +1,24 @@
+{
+  "author": "J.K.ROWLING",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "genre": "Fantasy",
+  "mainCharacters":
+  [
+    "Harry Potter",
+    "Ronald Weasley",
+    "Hermione Granger",
+    "Lord Voldemort"
+  ],
+  "editions":
+  [
+    {
+      "dateOfWriting": "1990-1995",
+      "publishedYear": 1997,
+      "publisher": "Bloomsbury Publishing"
+    },
+    {
+      "publishedYear": 2000,
+      "publisher": "РОСМЭН-ИЗДАТ"
+    }
+  ]
+}
